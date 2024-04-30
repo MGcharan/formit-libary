@@ -16,7 +16,7 @@ function Footer() {
               fontWeight: "bold",
             }}
           >
-           <img className="text-center" src="/image/my-logo.png" alt="logo" style={{width:"9gi0px"}}/>
+           <img className="text-center" src="/image/swastic kumar.png" alt="logo" style={{width:"100px"}}/>
           </a>{" "}
           {new Date().getFullYear()}
         </p>
