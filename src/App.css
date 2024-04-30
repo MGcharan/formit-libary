@@ -1,0 +1,30 @@
+.card{
+  background: rgb(254, 254, 254);
+
+}
+
+.heading{
+background-color: black;
+  text-align: center;
+  border: hidden;
+  
+}
+
+
+.text-light{
+position: relative;
+top: 31px;
+
+
+}
+
+body{
+  background-image: url("/image/books.jpg");
+  
+background-size:cover;
+background-position: center;
+background-repeat: no-repeat;
+overflow-x: hidden;
+
+
+}
